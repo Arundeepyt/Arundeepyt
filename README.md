@@ -70,7 +70,12 @@ Quiz App – Fun + Interactive
 
 🌐 Connect with Me
 
-Website • LinkedIn • GitHub
+•
+LinkedIn https://www.linkedin.com/in/arun-deep-410967238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
+
+• Website 
+https://arun-web-upate-y52i.vercel.app/#services
 
 
 ---
@@ -81,5 +86,5 @@ Website • LinkedIn • GitHub
 
 ---
 
-Would you like me to customize this with more emojis, dark cyber style, or animations? I can also make a **version for your LinkedIn bio** if you want.
+
 
