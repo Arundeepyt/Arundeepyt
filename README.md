@@ -1,4 +1,8 @@
+
 <h1 align="center">Hey there, I'm Arun 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&width=440&lines=Code.+Create.+Repeat.;Learning+Never+Stops.;Building+Better+Every+Day." />
+</p>
 
 ---
 
@@ -21,3 +25,61 @@
   "Tools": ["Git", "GitHub", "VSCode", "Chrome DevTools"],
   "Currently Learning": ["React", "Java", "Advanced JS Concepts"]
 }
+
+README.md (Modern + Aesthetic + Aligned to You)
+
+<h1 align="center">Hey there, I'm Arun! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
+
+<p 
+
+---
+
+### 🔍 About Me  
+- 🔧 Self-taught developer crafting UIs with code & vision  
+- 💼 Currently doing an internship & growing fast  
+- 🎨 I love clean, aesthetic interfaces that *feel alive*  
+- ⚙️ Exploring: Animations | JS logic | Responsive Design  
+- 🤝 Open to collaborations & meaningful projects  
+- 🎯 Goal: Full-stack dev with real-world impact
+
+---
+
+### 🧠 Tech Stack  
+```js
+Languages:  [HTML, CSS, JavaScript]  
+Frameworks: [Bootstrap]  
+Currently Learning: [React, Git, VS Code, Advanced JS Concepts]
+Tools:      [Figma, GitHub, Chrome DevTools]
+
+
+---
+
+🚀 Featured Projects
+
+Web Update – Fully responsive UI
+
+To-Do App – With local storage
+
+Digital Doc – JavaScript DOM Practice
+
+Quiz App – Fun + Interactive
+
+
+
+---
+
+🌐 Connect with Me
+
+Website • LinkedIn • GitHub
+
+
+---
+
+> “From quiet learner to confident creator — I build with intent, design with care, and learn like it's my superpower.”
+
+
+
+---
+
+Would you like me to customize this with more emojis, dark cyber style, or animations? I can also make a **version for your LinkedIn bio** if you want.
+
