@@ -26,7 +26,7 @@
   "Currently Learning": ["React", "Java", "Advanced JS Concepts"]
 }
 
-README.md (Modern + Aesthetic + Aligned to You)
+README.md (Modern + Aesthetic + Aligned to me)
 
 <h1 align="center">Hey there, I'm Arun! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
