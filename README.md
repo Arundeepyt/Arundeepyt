@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=Arundeepyt&label=Profile%20views&color=0e75b6&style=flat" alt="Arundeepyt" />
 </p>
 
-- 🔭 I’m currently working on *Full Stack Development*
-- 📫 How to reach me: *arunsodhi16@gmail.com*
+- 🔭 I’m currently working on **Full Stack Development**
+- 📫 How to reach me: **arunsodhi16@gmail.com**
 
 ---
 
@@ -51,5 +51,5 @@
 
 ### Top Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundeepyt&layout=compact" alt="Arundeepyt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundeepyt&layout=compact" alt="Arundeepyt" />
 </p>
