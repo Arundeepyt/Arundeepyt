@@ -1,90 +1,55 @@
+<!-- Arundeepyt/README.md -->
 
-<h1 align="center">Hey there, I'm Arun 👋</h1>
+<h1 align="center">Hi there, I'm Arundeep 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&width=440&lines=Code.+Create.+Repeat.;Learning+Never+Stops.;Building+Better+Every+Day." />
+  <a href="https://github.com/Arundeepyt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Front-End+Developer+%7C+Learning+Back-End;Building+AI+Bots+with+Java;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arundeepyt&label=Profile%20views&color=0e75b6&style=flat" alt="Arundeepyt" />
+</p>
+
+- 🔭 I’m currently working on *Full Stack Development*
+- 📫 How to reach me: *arunsodhi16@gmail.com*
+
+---
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🔹 About Me  
-- 🧠 Self-taught Developer  
-- 💻 Currently doing an **internship** & growing fast  
-- 🚀 Passionate about learning, experimenting, and building cool stuff  
-- 🌐 I love making digital things come alive  
-- ⚙️ Focus: HTML • CSS • JavaScript • Responsive Web Design  
-- 📈 Open to collaborations & opportunities  
-- 🎯 Goal: Become a **full-stack dev** & build useful tools for real users  
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</p>
 
 ---
 
-### 🔧 Tech Stack
-```js
-{
-  "Languages": ["HTML", "CSS", "JavaScript"],
-  "Frameworks": ["Bootstrap", "basic React (learning)"],
-  "Tools": ["Git", "GitHub", "VSCode", "Chrome DevTools"],
-  "Currently Learning": ["React", "Java", "Advanced JS Concepts"]
-}
+### GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arundeepyt&show_icons=true&locale=en" alt="Arundeepyt" />
+</p>
 
-README.md (Modern + Aesthetic + Aligned to me)
+### Streak Stats:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arundeepyt&" alt="Arundeepyt" />
+</p>
 
-<h1 align="center">Hey there, I'm Arun! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
-
-<p 
-
----
-
-### 🔍 About Me  
-- 🔧 Self-taught developer crafting UIs with code & vision  
-- 💼 Currently doing an internship & growing fast  
-- 🎨 I love clean, aesthetic interfaces that *feel alive*  
-- ⚙️ Exploring: Animations | JS logic | Responsive Design  
-- 🤝 Open to collaborations & meaningful projects  
-- 🎯 Goal: Full-stack dev with real-world impact
-
----
-
-### 🧠 Tech Stack  
-```js
-Languages:  [HTML, CSS, JavaScript]  
-Frameworks: [Bootstrap]  
-Currently Learning: [React, Git, VS Code, Advanced JS Concepts]
-Tools:      [Figma, GitHub, Chrome DevTools]
-
-
----
-
-🚀 Featured Projects
-
-Web Update – Fully responsive UI
-
-To-Do App – With local storage
-
-Digital Doc – JavaScript DOM Practice
-
-Quiz App – Fun + Interactive
-
-
-
----
-
-🌐 Connect with Me
-
-•
-LinkedIn https://www.linkedin.com/in/arun-deep-410967238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-
-
-• Website 
-https://arun-web-upate-y52i.vercel.app/#services
-
-
----
-
-> “From quiet learner to confident creator — I build with intent, design with care, and learn like it's my superpower.”
-
-
-
----
-
-
-
+### Top Languages:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundeepyt&layout=compact" alt="Arundeepyt" />
+</p>
