@@ -1,4 +1,4 @@
-l<!-- Arundeepyt/README.md -->
+<!-- Arundeepyt/README.md -->
 
 <h1 align="center">Hi there, I'm Arundeep 👋</h1>
 
