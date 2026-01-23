@@ -1,3 +1,8 @@
+Got it 😈💻
+You want a hacker-style resume README that feels like:
+⌨️ terminal / typing output
+🧠 skills shown clearly (no confusion)
+
 <!-- Arundeepyt | Hacker Terminal Resume -->
 
 <h1 align="center">
@@ -29,3 +34,79 @@ $ cat focus.txt
 > Full Stack Development
 > Clean UI + Strong Logic
 > Automation & AI
+🧠 Thinks in systems, not just syntax
+⚙️ Builds frontend → backend → logic → automation
+🤖 Interested in AI, bots, smart systems
+🎨 Loves animated UI & cyber aesthetics
+📡 Contact: arunsodhi16@gmail.com
+🔗 NETWORK PORTS
+�
+￼ ￼ 
+
+🧰 SKILLS LOADED (CLEAR & HONEST)
+🎨 Frontend (UI / UX)
+Copy code
+Bash
+HTML  ██████████
+CSS   █████████░
+JS    ████████░░
+React ███████░░░
+�
+￼ 
+
+⚙️ Backend & Logic
+Copy code
+Bash
+Node.js ████████░░
+Python  ██████████
+REST API ███████░░░
+�
+￼ 
+
+🧬 Programming Languages
+Copy code
+Bash
+Python ██████████
+Java   ███████░░░
+C      ██████░░░░
+�
+￼ 
+
+🧰 Tools & Apps
+Copy code
+Bash
+Git      █████████░
+GitHub   █████████░
+VS Code  ██████████
+�
+￼ 
+
+🧪 PROJECT EXECUTION LOG
+Copy code
+Bash
+[✓] Weather App        → API + UI
+[✓] Fitness App        → UI + Logic
+[✓] Python Automation  → Scripts & Tools
+[✓] AI Discord Bot     → Java + Commands
+[✓] Cyber Portfolio    → Animated Website
+📊 SYSTEM STATS
+�
+￼ ￼ 
+
+�
+￼ 
+
+🏆 BADGES UNLOCKED
+�
+￼ 
+
+⚡ FINAL LINE
+Copy code
+Bash
+> Code smart.
+> Break limits.
+> Build quietly.
+⭐ Star repos if you respect the grind.
+Copy code
+
+---
