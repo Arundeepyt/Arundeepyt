@@ -1,7 +1,4 @@
-Got it 😈💻
-You want a hacker-style resume README that feels like:
-⌨️ terminal / typing output
-🧠 skills shown clearly (no confusion)
+
 
 <!-- Arundeepyt | Hacker Terminal Resume -->
 
