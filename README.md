@@ -5,21 +5,27 @@
 ---
 
 ### 📊 My GitHub Activity
-![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Arundeepyt&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 📈 Language & Skill Distribution
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arundeepyt&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔥 Recent Coding Momentum
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+### 🔥 Coding Momentum
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arundeepyt&theme=tokyonight)
 
 ---
 
-### 🚀 Active Projects & "Shows"
-* **[Project Name]**: Brief description of the tech progress here.
-* **[Project Name]**: Latest milestone reached.
+### 🚀 Featured Project Shows
+* **Main Web App:** [Live Demo](https://arun-web-upate-y52i.vercel.app/)
+* **Portfolio:** [Wix Site](https://arunsodhi16.wixsite.com/arun-2)
+* **Legacy Site:** [Arundeep CT](http://arundeep.ct.ws/)
+---
 
-### 📬 Find Me Around the Web
-[LinkedIn](YOUR_LINK) | [Portfolio](YOUR_LINK) | [Twitter/X](YOUR_LINK)
+### 📺 Latest from YouTube
+[Visit my YouTube Channel](https://youtube.com/@bxo99999)
+---
+
+### 📬 Connect with Me
+[YouTube](https://youtube.com/@bxo99999) | [Vercel](https://arun-web-upate-y52i.vercel.app/) | [Wix](https://arunsodhi16.wixsite.com/arun-2)
