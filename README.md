@@ -1,63 +1,25 @@
-<h1 align="center">Hi 👋, I'm Arun Deep</h1>
-<h3 align="center">Passionate Developer | Creative Coder | Tech Learner</h3>
+# 🛠️ [Arundeep]'s Tech Dashboard
+
+> **Automated Progress Report** > *This README updates dynamically to show my latest tech shows and contributions.*
 
 ---
 
-## 🌟 About Me
-- 💻 I love building projects using **HTML, CSS, JavaScript, and C++**
-- 🚀 Currently learning **Java & AI Development**
-- 🎯 Focused on improving skills and building real-world projects
-- 🔥 I believe in **hard work over talent**
-- 🌍 Based in **Jammu & Kashmir, India**
+### 📊 My GitHub Activity
+![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+
+### 📈 Language & Skill Distribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- HTML5
-- CSS3
-- JavaScript
-- C++
-
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Bootstrap
-- Node.js (learning)
+### 🔥 Recent Coding Momentum
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 🚀 Projects
+### 🚀 Active Projects & "Shows"
+* **[Project Name]**: Brief description of the tech progress here.
+* **[Project Name]**: Latest milestone reached.
 
-### 🌈 Neon To-Do List
-- ✨ Animated UI with neon effects
-- 📌 Add, delete, manage tasks
-- 🎨 Built using HTML, CSS, JS
-
-### 🌦️ Weather App (In Progress)
-- 🌍 Fetch real-time weather data
-- 🎯 Clean UI with API integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-- 💬 Always open to learning and collaboration
-- ⚡ Fun fact: I love music & coding at night 🌙
-
----
-
-## ⚡ Motto
-> "Hard work beats talent when talent doesn’t work hard."
+### 📬 Find Me Around the Web
+[LinkedIn](YOUR_LINK) | [Portfolio](YOUR_LINK) | [Twitter/X](YOUR_LINK)
